@@ -1,0 +1,58 @@
+.marcellus-sc-regular {
+  font-family: "Marcellus SC", serif !important;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.font-bona-important {
+  font-family: "Bona Nova SC", system-ui !important;
+  font-weight: 700 !important;
+  font-style: normal !important;
+}
+
+.text-shadow {
+  text-shadow: 2px 1px 3px black !important;
+}
+.box-shadow {
+  box-shadow: 2px 1px 5px black;
+}
+
+#id_sider_btn {
+  cursor: pointer !important;
+}
+
+#id_sider_btn > p {
+    transition: all 1000ms !important;
+}
+#id_sider_btn > p:hover {
+    color: #fff200 !important;
+    text-shadow: 2px 1px 3px #0d0c8f !important;
+    translate: all 1000ms !important;
+}
+
+div.col.p-2.d-flex.flex-row.justify-content-center > nav > ul > li > a {
+    transition: all 1000ms !important;
+}
+div.col.p-2.d-flex.flex-row.justify-content-center > nav > ul > li > a:hover {
+    color: #fff200 !important;
+    text-shadow: 2px 1px 3px #0d0c8f !important;
+    translate: all 1000ms !important;
+}
+
+div.offcanvas-body > nav > ul > li > a {
+    transition: all 1000ms !important;
+}
+div.offcanvas-body > nav > ul > li > a:hover {
+    color: #fff200 !important;
+    text-shadow: 2px 1px 3px #0d0c8f !important;
+    translate: all 1000ms !important;
+}
+
+
+lord-icon > .balance {
+    width:50px; height:50px; margin: 2%;
+}
+
+textarea {
+    resize: none;
+}
